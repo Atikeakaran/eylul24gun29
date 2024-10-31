@@ -1,0 +1,13 @@
+.todos input[type="checkbox"]{
+    width: 1.5rem;
+    height: 1.5rem;
+    vertical-align: middle;
+}
+
+.done .todo-title{
+    text-decoration: line-through;
+}
+
+.done .todo-title{
+    color: red;
+}
